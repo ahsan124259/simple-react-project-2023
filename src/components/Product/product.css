@@ -1,0 +1,17 @@
+.product img{
+width:245px;
+height:245px;
+}
+.product{
+    border: 1px solid ;
+    border-radius: 2px;
+    border: none;
+}
+.button {
+    width:100%;
+    height: 50px;
+    background-color: blue;
+    position:relative;
+    border: none;
+
+}
